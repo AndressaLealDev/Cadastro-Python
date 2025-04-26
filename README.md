@@ -1,4 +1,5 @@
  Sobre o Projeto
+ 
 Este é um projeto simples de cadastro de usuários desenvolvido em Python.
 Ele permite adicionar, visualizar e gerenciar informações de forma prática via terminal.
 Ideal para treinar lógica de programação, manipulação de arquivos e estrutura de dados.
